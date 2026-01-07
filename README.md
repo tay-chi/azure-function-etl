@@ -2,6 +2,9 @@
 
 A serverless ETL pipeline built on Azure Functions that retrieves construction project data from an external REST API, transforms it for CRM import, and delivers it to downstream systems via blob storage.
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![Azure Functions](https://img.shields.io/badge/Azure-Functions-0078D4.svg)
+![Tests](https://img.shields.io/badge/tests-28%20passed-brightgreen.svg)
 ---
 
 ## Background
