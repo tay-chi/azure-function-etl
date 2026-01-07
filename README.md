@@ -255,6 +255,3 @@ The pipeline generates Excel files with CRM-ready data:
 
 ---
 
-## License
-
-MIT
