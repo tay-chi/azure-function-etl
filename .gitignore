@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Azure Functions
+local.settings.json
+.python_packages/
+.func/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+/tmp/
+
+# Project specific
+processed_files.json
+*.xlsx
