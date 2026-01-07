@@ -195,7 +195,7 @@ LEADS_DRIVE_ID=your_sharepoint_drive_id
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/azure-function-etl.git
+git clone https://github.com/tay-chi/azure-function-etl.git
 cd azure-function-etl
 
 # Create virtual environment
@@ -210,9 +210,7 @@ venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
-# Configure environment variables
-cp local.settings.json.example local.settings.json
-# Edit local.settings.json with your values
+# Configure environment variables in local.settings.json
 
 # Run locally
 func start
